@@ -1,0 +1,103 @@
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Windows NT 10.0; Win64; x64
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Local Time: 12:09:35
+RefUrl: https://statics.teams.cdn.office.net/
+-------------------------
+
+Target IP Detail
+----------------
+IP: 152.37.127.195
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Windows NT 10.0; Win64; x64
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Local Time: 4:10:04 AM
+RefUrl: 
+-------------------------
+
+Target IP Detail
+----------------
+IP: 74.179.68.27
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Linux; Android 10; K
+Platform: Linux armv81 
+Cookies Enabled: true
+Browser Language: en-IN
+Local Time: 16:40:59
+RefUrl: android-app://com.google.android.googlequicksearchbox/
+-------------------------
+
+Target IP Detail
+----------------
+IP: 157.50.174.199
+---------------
+
+User denied the Geolocation permision.
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Windows NT 10.0; Win64; x64
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Local Time: 4:41:06 PM
+RefUrl: 
+-------------------------
+
+Target IP Detail
+----------------
+IP: 13.71.123.57
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 12.959744
+Longitude: 77.7027584
+Map Location:  https://www.google.com/maps/place/12.959744,77.7027584
+Google Earth:  https://earth.google.com/web/search/12.959744,77.7027584
+------------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Windows NT 10.0; Win64; x64
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Local Time: 4:42:51 PM
+RefUrl: 
+-------------------------
+
+Target IP Detail
+----------------
+IP: 13.71.123.57
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 10.096585
+Longitude: 76.351923
+Map Location:  https://www.google.com/maps/place/10.096585,76.351923
+Google Earth:  https://earth.google.com/web/search/10.096585,76.351923
+------------------

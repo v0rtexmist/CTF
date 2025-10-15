@@ -1,0 +1,212 @@
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Local Time: 10:48:23 AM
+Local Time: 10:48:23 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 13.71.123.57
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Local Time: 11:07:25 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 13.71.123.57
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 12.938514835558479
+Longitude: 77.68998523387738
+Map Location:  https://www.google.com/maps/place/12.938514835558479,77.68998523387738
+Google Earth:  https://earth.google.com/web/search/12.938514835558479,77.68998523387738
+------------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Local Time: 11:18:58 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 13.71.123.57
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Local Time: 11:20:09 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 13.71.123.57
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 12.938514557854605
+Longitude: 77.68998563063941
+Map Location:  https://www.google.com/maps/place/12.938514557854605,77.68998563063941
+Google Earth:  https://earth.google.com/web/search/12.938514557854605,77.68998563063941
+------------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Local Time: 11:20:09 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 13.71.123.57
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 12.938514557854605
+Longitude: 77.68998563063941
+Map Location:  https://www.google.com/maps/place/12.938514557854605,77.68998563063941
+Google Earth:  https://earth.google.com/web/search/12.938514557854605,77.68998563063941
+------------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Windows NT 10.0; Win64; x64
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Local Time: 11:29:54 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 13.71.123.57
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 12.938512275786486
+Longitude: 77.6899904034056
+Map Location:  https://www.google.com/maps/place/12.938512275786486,77.6899904034056
+Google Earth:  https://earth.google.com/web/search/12.938512275786486,77.6899904034056
+------------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: iPhone; CPU iPhone OS 26_0_1 like Mac OS X
+Platform: iPhone 
+Cookies Enabled: true
+Browser Language: en-IN
+Local Time: 11:32:55 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 106.216.238.10
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 12.938632659755594
+Longitude: 77.68998714713055
+Map Location:  https://www.google.com/maps/place/12.938632659755594,77.68998714713055
+Google Earth:  https://earth.google.com/web/search/12.938632659755594,77.68998714713055
+------------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Linux; Android 10; K
+Platform: Linux armv81 
+Cookies Enabled: true
+Browser Language: en-IN
+Local Time: 11:33:44
+RefUrl: android-app://com.google.android.googlequicksearchbox/
+OS CPU: undefined
+-------------------------
+
+User denied the Geolocation permision.
+
+Target IP Detail
+----------------
+IP: 106.216.238.10
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Windows NT 10.0; Win64; x64
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Local Time: 11:37:09 AM
+RefUrl: 
+-------------------------
+
+Target IP Detail
+----------------
+IP: 13.71.123.57
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 12.938513033671402
+Longitude: 77.68998900296216
+Map Location:  https://www.google.com/maps/place/12.938513033671402,77.68998900296216
+Google Earth:  https://earth.google.com/web/search/12.938513033671402,77.68998900296216
+------------------

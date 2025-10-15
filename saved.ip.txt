@@ -1,0 +1,11 @@
+IP: 13.71.123.57
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36IP: 13.71.123.57
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36IP: 13.71.123.57
+ User-Agent: Windows NT 10.0; Win64; x64IP: 13.71.123.57
+ User-Agent: Windows NT 10.0; Win64; x64IP: 13.71.123.57
+ User-Agent: Windows NT 10.0; Win64; x64IP: 13.71.123.57
+ User-Agent: Windows NT 10.0; Win64; x64IP: 2401:4900:62f1:ae90:80f3:5b7f:8974:aa6d
+ User-Agent: iPhone; CPU iPhone OS 26_0_1 like Mac OS XIP: 106.216.238.10
+ User-Agent: Linux; Android 10; KIP: 13.71.123.57
+ User-Agent: Windows NT 10.0; Win64; x64IP: 52.112.49.196
+ User-Agent: Windows NT 6.1; WOW64
